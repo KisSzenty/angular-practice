@@ -7,11 +7,16 @@
         "color": "red"
     },
     {
-        "name": "Seprű",
-        "id": 2
+        "id": 2,
+        "name": "Lapát",
+        "price": 2990
     },
     {
         "name": "Palacsintasütő",
         "id": 3
+    },
+    {
+        "name": "GofriSütő",
+        "id": 4
     }
 ]
